@@ -29,12 +29,12 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
+-- profile.wrapper: PRESHITA SHRAWANKAR
+avatar: $assets.files.images.PRESHITA.jpg
 city: London
-github-url: https://www.github.com/
+github-url: https://www.github.com/presh2003
 linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+instagram-url: https://www.instagram.com/preshita2703
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -78,12 +78,12 @@ z-index: 3
 margin-top.rem: -70
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
+-- profile.wrapper: PRESHITA SHRAWANKAR
+avatar: $assets.files.images.PRESHITA.jpg
 city: London
-github-url: https://www.github.com/
+github-url: https://www.github.com/presh2003
 linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+instagram-url: https://www.instagram.com/preshita2703
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
